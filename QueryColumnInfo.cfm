@@ -43,7 +43,6 @@ function getColumnInfo (Query q,String columnDelimiter = ",", String typeDelimit
 					case "smallmoney":
 					case "time":
 					case "tinyint":
-					case "xml":
 						stFormat = "right";
 						break;
 					default:
