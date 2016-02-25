@@ -1,6 +1,6 @@
 
 <cfscript>
-/* Returns array of all matches found in a given regex.
+/* Returns array of all matches found in a string with a given regex.
  *
  * @param str 		String containing text to match against
  * @param pattern   RegEx pattern that will be used, REFindNoCase is used
