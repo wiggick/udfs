@@ -10,7 +10,7 @@ A collection of UDF's created by [Christopher Wigginton](c_wigginton@yahoo.com)
 |GetTimeStampFromHttpString|Converts HttpTimeString into a timestamp string.|
 |QueryColumnInfo|Returns info structure containing original order of select query with info on column type and alignment based on type.|
 |getDB2TimeStamp|Takes a ColdFusion date object and returns a DB2 formatted timestamp.|
-|loremIpsum|Generates loremipsum text.  Author: Christoper Wigginton. Version 1.0.  Based on JavaScript version created by Fatih Kadir AKIN https://github.com/f/loremjs/blob/master/lorem.js|
+|loremIpsum|Generates loremipsum text.  Based on JavaScript version created by Fatih Kadir AKIN https://github.com/f/loremjs/blob/master/lorem.js|
 |vCal|Produces output used by the vCalendar standard for PIM's (such as Outlook).|
 ### The MIT License (MIT)
 Copyright (c) 2016 Christopher Wigginton
